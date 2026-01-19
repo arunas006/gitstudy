@@ -19,3 +19,4 @@ Example:
 
 ## 📂 Project Structure
 
+This project is related to RAG and i am going to create a modular code
